@@ -1,1 +1,1 @@
-# TipCal This helps calculate tip amount for various percentages of the total cost and also provides a total amount that includes the tip. This also considers the number of people sharing the bill to calculate tip per person, as well as the total cost per person.  
+
